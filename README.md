@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About Me
+
+我是一名創作者，喜歡視覺呈現面的探索。
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css)
