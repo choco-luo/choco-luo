@@ -2,7 +2,7 @@
 
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css)]
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css)
 <!--
 **choco-luo/choco-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
