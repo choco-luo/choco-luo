@@ -3,7 +3,7 @@
 是一名3D藝術家，喜歡視覺呈現面的探索，近期在初學前端的內容，這塊領域對我來說真的很難需要時間消化。
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,vue)
 <!--
 **choco-luo/choco-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
