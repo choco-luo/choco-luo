@@ -4,6 +4,8 @@
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue&theme=light)
+
+<img src="https://i.kym-cdn.com/photos/images/original/002/474/361/171.gif" width="300px" align="right">
 <!--
 **choco-luo/choco-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
