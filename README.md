@@ -1,7 +1,11 @@
 ## About Me
+
 <img src="https://i.kym-cdn.com/photos/images/original/002/474/361/171.gif" width="300px" align="right">
 
-是一名3D藝術家，喜歡視覺呈現面的探索，近期初學前端需要時間消化。
+> [!TIP]
+> //Ex 3D Artist 喜歡視覺呈現面的探索，尤為喜愛工業風。
+> 
+> 確實還有在接案2D/3D的插圖或場景概念渲染圖，時間允許都還是可以接，不過我現在心思跟目標都放在寫code這邊，這段路對我來說非常艱辛不是旁人以為的那麼輕鬆，但在程式設計圈子學到新事物又覺得好有趣。
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,tailwind)
