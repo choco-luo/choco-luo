@@ -5,7 +5,7 @@
 > [!TIP]
 > //Ex 3D Artist。
 > 
-> 確實還有在接案2D/3D的插圖或場景概念渲染圖，時間允許都還是可以接，不過我現在心思跟目標全放在寫code這邊，在程式設計圈子學到新事物覺得很有趣。
+> 確實還有在接案2D/3D的插圖或場景概念渲染圖，時間允許都還是可以接，不過我現在心思跟目標全放在寫code這邊，在程式設計圈子學到新事物覺得很有趣，尤其Vue的社群，我仿佛在這找到當年繪畫混跡ACG圈的熱情。
 
 ##### 我使用的語言和框架 Languages & Frameworks I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,tailwind)
