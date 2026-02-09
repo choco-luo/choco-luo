@@ -7,7 +7,7 @@
 > 確實還有在接案2D/3D的插圖或場景概念渲染圖，時間允許都還是可以接，不過我現在心思跟目標全放在寫code這邊，在程式設計圈子學到新事物覺得很有趣，尤其Vue的社群。
 
 ##### 我的工具箱 Tools kit I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,tailwind,docker)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,vite,tailwind,docker,astro)
 
 <!--
 **choco-luo/choco-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
