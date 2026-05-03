@@ -4,7 +4,7 @@
 > [!TIP]
 > //Ex 3D Artist。
 > 
-> 不接，現在心思跟目標全放在寫code這邊，在程式設計圈子學到新事物覺得很有趣，尤其Vue的社群。
+> 不接，現在心思全放在寫code這邊，會畫的時候會畫。
 
 ##### 我的工具箱 Tools kit I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,vite,tailwind,docker,astro,figma)
