@@ -2,9 +2,9 @@
 <img src="https://github.com/user-attachments/assets/df2ec6c7-2da6-4403-91af-ab88a4ebd461" width="200" align="right">
 
 > [!TIP]
-> //Ex 3D Artist。
+> bibobibo
 > 
-> 不接，現在心思全放在寫code這邊，會畫的時候會畫。
+> 拚30歲之前回原本行業，但可能要飛日本。
 
 ##### 我的工具箱 Tools kit I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,vite,tailwind,docker,astro,figma)
