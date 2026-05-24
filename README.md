@@ -4,7 +4,7 @@
 > [!TIP]
 > bibobibo
 > 
-> 拚30歲之前回原本行業，但可能要飛日本。
+> 聽說沒料的都會在這邊寫英文包裝自己，所以我也這麼做。
 
 ##### 我的工具箱 Tools kit I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,vite,tailwind,docker,astro,figma)
