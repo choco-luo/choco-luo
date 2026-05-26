@@ -4,7 +4,7 @@
 > [!TIP]
 > bibobibo
 > 
-> 聽說沒料的都會在這邊寫英文包裝自己，所以我也這麼做。
+> 不知道耶
 
 ##### 我的工具箱 Tools kit I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,vite,tailwind,docker,astro,figma)
