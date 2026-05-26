@@ -4,10 +4,10 @@
 > [!TIP]
 > bibobibo
 > 
-> 不知道耶
+> 不知道耶。
 
 ##### 我的工具箱 Tools kit I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,vite,tailwind,docker,astro,figma)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,docker,astro,figma)
 
 ![new*](https://skillicons.dev/icons?i=cs,react)
 
