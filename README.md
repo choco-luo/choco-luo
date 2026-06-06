@@ -7,9 +7,9 @@
 > 不知道耶。
 
 ##### 我的工具箱 Tools kit I use
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=js,html,css,ts,vue,nuxt,docker,astro,figma)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=ts,vue,nuxt,react,next,docker,astro,figma)
 
-![new*](https://skillicons.dev/icons?i=cs,react)
+![new*](https://skillicons.dev/icons?i=cs,java)
 
 <!--
 **choco-luo/choco-luo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
