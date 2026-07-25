@@ -1,10 +1,6 @@
 ## About Me
-<img src="https://github.com/user-attachments/assets/df2ec6c7-2da6-4403-91af-ab88a4ebd461" width="200" align="right">
+<img width="200" height="210" alt="AF9955418DE182E126F7E3B75673FDAF" src="https://github.com/user-attachments/assets/07dcb3df-2265-4629-a760-bea408a8cf89" align="right"/>
 
-> [!TIP]
-> bibobibo
-> 
-> 不知道耶。
 
 ##### 我的工具箱 Tools kit I use
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=vue,nuxt,react,next,docker,astro,figma)
